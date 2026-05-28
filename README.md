@@ -88,5 +88,5 @@
 ### 1. Clone repo / Клонування репозиторію
 
 ```bash
-git clone <URL_до_репозиторію>
+git clone https://github.com/Andryushkak/FractalRobustness.git
 cd FractalRobustness
