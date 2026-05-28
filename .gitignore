@@ -1,0 +1,13 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+data/
+datasets/
+models/
+checkpoints/
+runs/
+wandb/
+
+node_modules/
